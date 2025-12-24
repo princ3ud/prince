@@ -1,0 +1,8 @@
+{
+  "name": "Stellar Archive - Princewill Cosmas Private Collection",
+  "description": "An elite digital archive for ownership-free volumes and global literary masterpieces.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
